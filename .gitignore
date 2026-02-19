@@ -1,0 +1,45 @@
+# Arduino IDE
+*.tmp
+*.log
+build/
+dist/
+
+# Build artifacts
+*.o
+*.d
+*.a
+*.so
+*.dll
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Serial monitor logs
+serial_log.txt
+
+# Temporary files
+*.bak
+*.swp
+*.swo
+*~
+
+# Compiled binaries (if any)
+*.bin
+*.elf
+*.hex
+
+# Except keep the weights file
+!ai_weights.h
+
+# Documentation build (if using doxygen/sphinx)
+docs/_build/
+html/
