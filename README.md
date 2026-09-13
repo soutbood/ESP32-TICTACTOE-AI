@@ -236,22 +236,7 @@ status
 
 ---
 
-## 📝 Project Structure
-
-```
-tictac/
-├── TicTacToe_AI_ESP32_MultiUser.ino    # Main source code
-├── ai_weights.h                        # Pre-trained weights
-├── FUNCTION_REFERENCE.md               # Function documentation
-├── NEURAL_NETWORK_MATH.md              # Math explanations
-├── ADAPTING_TO_OTHER_GAMES.md          # Porting guide
-├── QWEN.md                             # AI assistant context
-└── README.md                           # This file
-```
-
----
-
-## 🤝 Contributing
+## Contributing
 
 Feel free to:
 - Report bugs
@@ -279,7 +264,7 @@ The AGPL-3.0 is a strong copyleft license designed to ensure that modifications 
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - ESPAsyncWebServer library
 - AsyncTCP library
