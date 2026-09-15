@@ -1,3 +1,4 @@
+THIS PROJECT WILL BE RE-WRITTEN WITHOUT LLM HELP
 # 🎮 Tic Tac Toe AI for ESP32
 
 [![ESP32](https://img.shields.io/badge/Platform-ESP32-blue)](https://www.espressif.com/en/products/socs/esp32)
